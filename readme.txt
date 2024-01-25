@@ -1,3 +1,3 @@
-Welcome to my project!
+Welcome to "Git for beginners" project!
 Aurthor:Thomas mikes jerry
 Twitter:@kiprono
