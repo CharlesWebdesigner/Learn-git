@@ -1,3 +1,3 @@
 Welcome to my project!
-Aurthor:Thomas jerry
+Aurthor:Thomas mikes jerry
 Twitter:@kiprono
